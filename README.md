@@ -14,6 +14,9 @@ Similarity is a machine learning method that uses a nearest neighbor approach to
 Cosine Similarity<br>
 Machine learning uses Cosine Similarity in applications such as data mining and information retrieval. For example, a database of documents can be processed such that each term is assigned a dimension and associated vector corresponding to the frequency of that term in the document. 
 
+### Links
+You can watch demo video over here:https://youtu.be/CRkg9CETJbA<br>
+
 ### Architecture
 ![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/arch.jpeg)
 
