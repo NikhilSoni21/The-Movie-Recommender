@@ -15,7 +15,7 @@ Cosine Similarity<br>
 Machine learning uses Cosine Similarity in applications such as data mining and information retrieval. For example, a database of documents can be processed such that each term is assigned a dimension and associated vector corresponding to the frequency of that term in the document. 
 
 ### Architecture
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/arch.jpeg))
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/arch.jpeg)
 
 ### How to run the project?
 
