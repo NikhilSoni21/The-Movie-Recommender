@@ -1,18 +1,20 @@
 # The-Movie-Cinema
 
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+[Python](https://img.shields.io/badge/Python-3.8-blueviolet)<br>
+![Framework](https://img.shields.io/badge/Framework-Flask-red)<br>
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)<br>
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc.
+This project is based on content based recommending system.I have uses various techniques like similarity score, cosine similarity etc.
+This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, recommended movies, etc.
 
-The details of the movies(title, genre, runtime, rating, poster, etc) are fetched using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site.
-## Link to the application
+# How it Works?
+Similarity Score
+Similarity is a machine learning method that uses a nearest neighbor approach to identify the similarity of two or more objects to each other based on algorithmic distance functions
+Cosine Similarity
+Machine learning uses Cosine Similarity in applications such as data mining and information retrieval. For example, a database of documents can be processed such that each term is assigned a dimension and associated vector corresponding to the frequency of that term in the document. 
 
-Check out the live demo: https://the-movie-cinema.herokuapp.com/
-
-## How to run the project?
+### How to run the project?
 
 1. Clone this repository in your local system.
 2. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`.
@@ -20,7 +22,7 @@ Check out the live demo: https://the-movie-cinema.herokuapp.com/
 4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. You can run.
 
-### Sources of the datasets 
+#### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
