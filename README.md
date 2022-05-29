@@ -1,4 +1,4 @@
-# The-Movie-Cinema
+# The-Movie-Recommender
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)<br>
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)<br>
@@ -9,9 +9,9 @@ This project is based on content based recommending system.I have uses various t
 This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, recommended movies, etc.
 
 # How it Works?
-Similarity Score
+Similarity Score<br>
 Similarity is a machine learning method that uses a nearest neighbor approach to identify the similarity of two or more objects to each other based on algorithmic distance functions<br>
-Cosine Similarity
+Cosine Similarity<br>
 Machine learning uses Cosine Similarity in applications such as data mining and information retrieval. For example, a database of documents can be processed such that each term is assigned a dimension and associated vector corresponding to the frequency of that term in the document. 
 
 ### How to run the project?
