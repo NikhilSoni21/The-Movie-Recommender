@@ -1,6 +1,6 @@
 # The-Movie-Cinema
 
-[Python](https://img.shields.io/badge/Python-3.8-blueviolet)<br>
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)<br>
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)<br>
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)<br>
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
@@ -10,7 +10,7 @@ This application provides all the details of the requested movie such as overvie
 
 # How it Works?
 Similarity Score
-Similarity is a machine learning method that uses a nearest neighbor approach to identify the similarity of two or more objects to each other based on algorithmic distance functions
+Similarity is a machine learning method that uses a nearest neighbor approach to identify the similarity of two or more objects to each other based on algorithmic distance functions<br>
 Cosine Similarity
 Machine learning uses Cosine Similarity in applications such as data mining and information retrieval. For example, a database of documents can be processed such that each term is assigned a dimension and associated vector corresponding to the frequency of that term in the document. 
 
