@@ -25,6 +25,12 @@ Machine learning uses Cosine Similarity in applications such as data mining and 
 4. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 5. You can run.
 
+### Sreenshoot
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/screenshot/Screenshot%202022-05-29%20231052.png)<br>
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/screenshot/Screenshot%202022-05-29%20231257.png)
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/screenshot/Screenshot%202022-05-29%20231207.png)
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/screenshot/Screenshot%202022-05-29%20231230.png)
+
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
