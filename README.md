@@ -18,7 +18,7 @@ Machine learning uses Cosine Similarity in applications such as data mining and 
 You can watch demo video over here:https://youtu.be/CRkg9CETJbA<br>
 
 ### Architecture
-![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/arch.jpeg)
+![This is an image](https://github.com/NikhilSoni21/The-Movie-Recommender/blob/main/arch.png)
 
 ### How to run the project?
 
